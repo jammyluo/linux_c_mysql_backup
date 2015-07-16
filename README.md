@@ -17,3 +17,5 @@ book
 然后编译和运行
 $gcc -o mian main.c
 $./main
+
+如果有需要shell版的可以访问我的linux_shell_mysql_backup
